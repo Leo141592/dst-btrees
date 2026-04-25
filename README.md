@@ -2,7 +2,7 @@
 
 In this exercise you will implement a balanced search tree — specifically a **2-3 tree** — and expose it through a minimal `Map<K,V>` interface. You will build it **incrementally**, one operation at a time: first lookup, then insertion, and finally deletion. By the end you will have a map whose `put`, `get`, and `remove` all run in `O(log n)` worst-case time, regardless of the order in which keys are inserted.
 
-> **Reading before starting.** You will not get far without §1–§7 of `CONTENT.md`. Keep it open; the three operations in this guide map directly to the algorithms there.
+> **Reading before starting.** You will not get far without §1–§7 of `CONTENT.md`. Keep it open; the three operations in this guide map directly to the algorithms there...
 
 ---
 
